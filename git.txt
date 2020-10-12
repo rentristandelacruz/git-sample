@@ -1,0 +1,31 @@
+git config --global user.name "Ren Tristan A. de la Cruz"
+git config --global user.email "rentristandelacruz@gmail.com"
+
+git init 
+
+- Makes the current working directory a git repository
+
+
+git status
+
+- Shows the status (added and modified files) of the repository
+
+
+git add <file-1> ... <file-n>
+
+- Adds file-1 ... file-2 to the commit process
+
+
+git commit -m <commit message>
+
+- Commits changes to the files that were add (git add).
+
+
+git checkout -b <brach name>
+
+- Creates a new branch with name <branch name>.
+
+
+git brach
+
+- Shows the branch you are on. 
