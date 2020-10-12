@@ -29,3 +29,8 @@ git checkout -b <brach name>
 git brach
 
 - Shows the branch you are on. 
+
+
+git log
+
+- Shows the activity logs (e.g. commit logs)
