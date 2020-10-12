@@ -35,5 +35,6 @@ git log
 
 - Shows the activity logs (e.g. commit logs)
 
-
-Garage text to be commited then revered later.
+ git remote add origin https://github.com/rentristandelacruz/git-sample.git
+git branch -M main
+ git push -u origin main
