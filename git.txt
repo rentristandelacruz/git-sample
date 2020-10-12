@@ -38,3 +38,5 @@ git log
  git remote add origin https://github.com/rentristandelacruz/git-sample.git
 git branch -M main
  git push -u origin main
+
+git config credential.helper store
