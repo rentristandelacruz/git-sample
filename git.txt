@@ -40,3 +40,5 @@ git branch -M main
  git push -u origin main
 
 git config credential.helper store
+
+git remove -v
