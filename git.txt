@@ -1,7 +1,7 @@
 git config --global user.name "Ren Tristan A. de la Cruz"
 git config --global user.email "rentristandelacruz@gmail.com"
 
-git init 
+git init  tset
 
 - Makes the current working directory a git repository
 
